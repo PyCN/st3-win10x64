@@ -1,3 +1,29 @@
 {
-	"bootstrapped": true
+	"bootstrapped": true,
+	"channels":
+	[
+		"channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ChineseLocalizations",
+		"CTags",
+		"Emmet",
+		"Generic Config",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Modific",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Restructured Text (RST) Snippets",
+		"RestructuredText Improved",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"Sync Settings"
+	]
 }

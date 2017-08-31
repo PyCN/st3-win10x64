@@ -1,1 +1,12 @@
 /Data/Cache
+/Data/Index
+/Data/Local
+/Data/Packages/User/Package Control.cache
+/Data/Packages/User/Package Control.last-run
+/Packages/User/Package Control.merged-ca-bundle
+/Packages/User/Package Control.system-ca-bundle
+/Packages/User/Package Control.user-ca-bundle
+/Data/Packages/User/Preferences.sublime-settings.*.bak
+/.tags
+/.tags_sorted_by_file
+/channel_v3.json
