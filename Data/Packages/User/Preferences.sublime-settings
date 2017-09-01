@@ -1,11 +1,17 @@
 {
 	"auto_indent": true,
 	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 12,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"RestructuredText",
+		"Vintage"
+	],
 	"line_ending": "unix",
 	"margin": 2,
 	"python_interpreter_path": "auto",
@@ -14,11 +20,5 @@
 	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"ignored_packages":
-	[
-		"RestructuredText",
-		"Vintage"
-	]
+	"trim_trailing_white_space_on_save": true
 }
