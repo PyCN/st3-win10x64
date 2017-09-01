@@ -26,6 +26,7 @@ sublime-text-3 win10 x64
 
 **Note:** nodejs默认的安装地址在 `C:/Program Files/nodejs`. 如果变更了地址, 相关的插件设置项中对应修改下即可(我本地的nodejs安装在了D:/Program Files/nodejs下)
 
+4. 将Sublime Text3 的路径加入到环境变量
 
 ### 配置
 
